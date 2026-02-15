@@ -8,6 +8,6 @@ jobs:
       - name: Show uptime
         run: uptime
       - name: Where am I?
-        run:pwd
+        run: pwd
       - name: Who am I?
-        run:whoami
+        run: whoami
